@@ -3,7 +3,6 @@ Hi 👋 My name is Tom
 
 I am frontend developer who loves React and Next.js but opened for any other web technologies
 
-* 🤝  I'm open to collaborating on Interesting projects in crypto sphere
 
 ### Skills
 
